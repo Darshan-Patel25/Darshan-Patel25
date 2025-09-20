@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Imran Alam
+# 💫 Hi 👋, I'm Darshan Patel
 **A passionate Software Engineer **
 
 🔭 I’m currently working on: Building innovative web applications and exploring AI-driven solutions.
@@ -11,8 +11,7 @@
 
 💬 Ask me about: Collaboration, Tech Support, Web Development, and New Ideas.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Darshan-Patel25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
